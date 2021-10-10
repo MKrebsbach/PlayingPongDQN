@@ -33,6 +33,8 @@ The code can train two (2 Layer) neural networks to play Pong against each other
 as well as human vs neural network.
 
 # How to train and to play:
-RunDQN.m    trains two Networks (Agent1, Agent2) by playing Pong against each other.
-TestRun.m   displays 5 games either played randomly or by the agents
+RunDQN.m    trains two Networks (Agent1, Agent2) by playing Pong against each other. Has to be executed before running the following.
+
+TestRun.m   displays 5 games either played randomly (random=true) or by the agents (random = false).
+
 Pong.m      lets you play Pong against Agent2
