@@ -1,0 +1,1 @@
+% InitializeTarget.mfunction Target = InitializeTarget(L1)  if nargin < 1       L1 = 21;  end    Target    = struct();  Target.W1 = zeros([L1 7]);  Target.W2 = zeros([3 L1+1]);  endfunction
