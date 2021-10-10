@@ -1,6 +1,13 @@
 15.06.2021
 This code was written by Michael Krebsbach with inspiration from/ parts from:
 
+# Information
+This code trains a Deep-Q-Network to play the game Pong. It lets you compete against the DQN. It works with both Matlab and Octave (6.2.0). It does not require advanced packages. See README.md for instructions.
+The code was my project for the 2021 AG 'Theory and Implementation of Deep Learning Algorithms' with supervisor Prof. Dr. Alfio Borzi at the University of Würzburg.
+You can find the report to this project here:
+https://www.mathematik.uni-wuerzburg.de/en/scientificcomputing/teaching/documents-lecture-notes-downloads-etc/
+
+--------------------------------------------------------------------------------------------------------
 # Sources:
 The code was inspired by the paper
 	"Playing Atari with Deep Reinforcement Learning" 
